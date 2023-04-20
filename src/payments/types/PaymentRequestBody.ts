@@ -3,4 +3,5 @@ export class PaymentRequestBody{
 
     products:Product[];
     currency:string;
+    
 }
